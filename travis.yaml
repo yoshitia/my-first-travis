@@ -6,3 +6,5 @@ python: ["3.4"]
 install:
 # テスト実行用コマンド
 script: "python ./main.py"
+
+# 特に意味のないコメント
